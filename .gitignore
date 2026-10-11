@@ -1,0 +1,12 @@
+.codex_work/
+outputs/
+node_modules/
+work/node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
